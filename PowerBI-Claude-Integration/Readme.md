@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="PowerBI x Claude Integration" src="https://github.com/user-attachments/assets/41afda1e-9042-414e-ba1b-deeb842cd826" />
 
 - **Power BI** → Data source  
 - **MCP Server** → Bridge  
