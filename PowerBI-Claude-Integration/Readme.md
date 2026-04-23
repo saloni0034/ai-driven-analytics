@@ -13,12 +13,6 @@
 
 ---
 
-## 📊 Workflow
-
-![Workflow Diagram](./assets/workflow.png)
-
----
-
 ## 💡 Why this matters
 
 We’re shifting from:
