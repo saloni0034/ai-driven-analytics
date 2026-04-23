@@ -1,2 +1,1 @@
-# ai-driven-analytics
-AI-driven analytics using Power BI, MCP Server, and cloud integrations — exploring how conversational AI transforms dashboards into intelligent, interactive data experiences.
+Documenting my journey into AI-driven analytics — building smarter, faster, and more interactive data experiences with Power BI and beyond.
